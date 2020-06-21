@@ -1,0 +1,22 @@
+.container{
+    min-width: 1300px;
+}
+.header{
+    background: #fff;
+    border-bottom: 1px solid #999;
+    height: 10vh;
+    box-sizing: border-box;
+    overflow: auto;
+}
+.content{
+    min-height: 80vh;
+    /* box-sizing: border-box; */
+    padding: 10px;
+}
+.footer{
+    border-top: 1px solid #999;
+    text-align: center;
+    height: 10vh;
+    box-sizing: border-box;
+    overflow: auto;
+}
